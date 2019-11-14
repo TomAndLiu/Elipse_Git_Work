@@ -9,6 +9,8 @@ public class Test {
 			System.out.println("s是");
 			System.out.println("s是");
 			System.out.println("s是");
+			//增加个好东西
+			System.out.println("好东西");
 	}
 
 }
