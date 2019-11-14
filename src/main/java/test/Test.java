@@ -8,6 +8,7 @@ public class Test {
 			System.out.println("s是");
 			System.out.println("s是");
 			System.out.println("s是");
+			System.out.println("s是");
 	}
 
 }
